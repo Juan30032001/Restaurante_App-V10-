@@ -1,0 +1,14 @@
+[
+	{
+		"identificacion": "C001",
+		"nombre": "Ana García",
+		"correo": "ana@restaurante.com",
+		"contrasena": "1234"
+	},
+	{
+		"identificacion": "C002",
+		"nombre": "Luis Pérez",
+		"correo": "luis@restaurante.com",
+		"contrasena": "abcd"
+	}
+]
